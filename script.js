@@ -67,7 +67,7 @@ if (isNaN(userKm) || userKm < 1 ){
 }
 
 
-if (isNaN(userAge) || userAge < 1 || userAge > 95){
+if (isNaN(userAge) || userAge < 1 || userAge > 110){
     isValid = false;
     alert ('NOT VALID');
 }
